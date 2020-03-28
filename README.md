@@ -4,7 +4,7 @@
 
 A aplicação tem duas utilidades:
 
-1. Digitar e a biblioteca lê o que tá escrito <br/>
+1. Digitar um texto e a biblioteca lê o que tá escrito <br/>
 Existe um campo onde o usuário digite o texto e a biblioteca lê o que foi escrito.
 
 2. Falar e a biblioteca escrever o que foi falado <br/>
