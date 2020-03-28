@@ -1,4 +1,4 @@
-## REACT-SPEECH-KIT
+## react-speech-kit
 
 > Utilizando a biblioteca `react-speech-kit`
 
